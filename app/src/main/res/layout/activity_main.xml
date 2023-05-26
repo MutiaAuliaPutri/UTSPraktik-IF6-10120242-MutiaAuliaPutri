@@ -16,7 +16,7 @@
         tools:layout_editor_absoluteY="16dp" />
 
     <androidx.constraintlayout.widget.ConstraintLayout
-        android:id="@+id/bgr"
+
         android:layout_width="379dp"
         android:layout_height="157dp"
         android:background="@drawable/bg"
